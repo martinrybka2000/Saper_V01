@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Alphabetical" MembersFormat="FullSignature">
+  <Class Name="MinesGenerator" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAgAAAEASQQAAAAQAAAACAAAAAAAAAAEAAAAE=</HashCode>
+      <FileName>MinesGenerator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NormalGenerator" Collapsed="true">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAQAAAAACAAAAAAAAABAAAAAAAACAACAEAAAAA=</HashCode>
+      <FileName>NormalGenerator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APP" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgIAggAAADAAAoAAAAAAAAAgA=</HashCode>
+      <FileName>APP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAIAAIAABAQAAAAAAkIAIAgBAJAgAAAAICCAAAAgA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorItem" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAAAAIAAAgBAAAAAABAgAQABkAAAAQBgA=</HashCode>
+      <FileName>ColorItem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuItem" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACoAABAIAAAgBQAAAAABAgAIABgAAAAAAgA=</HashCode>
+      <FileName>MenuItem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NormalItem" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <InheritanceLine Type="MenuItem" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="3.75" Y="4.062" />
+        <Point X="3.75" Y="4.375" />
+        <Point X="1.25" Y="4.375" />
+        <Point X="1.25" Y="4.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAgAAAAAAAAAAAACAAAAAAAAgA=</HashCode>
+      <FileName>NormaliItem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ValueItem" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAggAAAAAAAgAAAAUABAAAAgAgA=</HashCode>
+      <FileName>ValueItem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackCommand" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAQAAAAAAAgAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BackCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Command" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAABAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Command.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChangeMenuCommand" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAABAQAAAAAAAgAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>ChangeMenuCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomSetCommand" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAQAAAAAAAAAAAAAABAgAACAgAAAAAA=</HashCode>
+      <FileName>CustomSetCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExitCommand" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAgBAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExitCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TypeCommand" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgIAAQAAAQAAAgAAAAAAAAgAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>TypeCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NoCommand" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NoCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuWall" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAIAAAAAAAAAAAAACgKAQAAACBAgAEAAAAAEBABgA=</HashCode>
+      <FileName>MenuWall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NormalWall" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>NormalWall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ValueWall" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAgAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>ValueWall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controler" Collapsed="true">
+    <Position X="5.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAABAAAAAAAAAAgAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Controler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoseKeyControler" Collapsed="true">
+    <Position X="5.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABAAAAAAAAAAAAAAEAAAgAAAgAIAAAAAAAAAAE=</HashCode>
+      <FileName>MoseKeyControler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameBuilder" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACAIAAQAAAYACQgAAAAAAAABAAAAAAAEQAAAAAA=</HashCode>
+      <FileName>GameBuilder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIControler" Collapsed="true">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQBAIBAAAAAAAAAEAAAgAAAIAIAAAQAAAAAAA=</HashCode>
+      <FileName>AIControler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

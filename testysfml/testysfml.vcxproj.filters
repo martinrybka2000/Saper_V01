@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Minesgenerator">
+      <UniqueIdentifier>{e2f5176c-8e31-482a-b35c-1a672c1216bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Minesgenerator">
+      <UniqueIdentifier>{3b853e06-ee90-4f4e-9b65-ee91b2bdacde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\App">
+      <UniqueIdentifier>{981644c0-d3e0-4ebe-b0a8-ccf0c32d9a27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\App">
+      <UniqueIdentifier>{b1eceaed-f843-44d7-8a0c-0df09fc3c3a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Menu">
+      <UniqueIdentifier>{9b8eeb7d-780b-4427-b6f8-97ba267ea22e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Menu">
+      <UniqueIdentifier>{0ad7cd22-6133-4192-89a4-59a2573f168e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Menuitem">
+      <UniqueIdentifier>{114e092d-31fb-4786-a3cb-9072b3886e00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Menuitem">
+      <UniqueIdentifier>{3b4ec19a-62a6-4271-8bef-f98049e38a05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Command">
+      <UniqueIdentifier>{161c38f0-71f7-4a7e-b32a-bb72f6a38424}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Command">
+      <UniqueIdentifier>{3b8537b3-2844-4f1d-b2fc-56eba1542448}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Menuwall">
+      <UniqueIdentifier>{2867f0c4-dc50-4e3a-865d-8af572255d42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Menuwall">
+      <UniqueIdentifier>{f5ad3d53-71c0-4eaa-8fee-6d4517ff485a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Controler">
+      <UniqueIdentifier>{946778a6-ea3b-4021-8a8e-6c6c27064d0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Controler">
+      <UniqueIdentifier>{8a572734-b59e-4eb6-ad44-89d0d71757f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Gamebuilder">
+      <UniqueIdentifier>{57dc5ba1-cc65-43fd-8149-9db3bcac33c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Gamebuilder">
+      <UniqueIdentifier>{1e8f029e-6f38-4cfb-b8c6-2dbe9aeacfa7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Game">
+      <UniqueIdentifier>{c0200fd6-2be7-4d94-acd0-cdfaae1ca211}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Game">
+      <UniqueIdentifier>{b5da4d34-6e45-40b1-88fd-a032dcdfd3ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Game\Timer">
+      <UniqueIdentifier>{f6501ebc-0b8b-49f1-9ba2-3e0bca8491eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Game\Timer">
+      <UniqueIdentifier>{2b1f4c91-ddb6-48ed-8e97-812eaf8b5aea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Game\GameAlgorithm">
+      <UniqueIdentifier>{da828ea8-06ce-4938-9bb6-e4c7e5c6bf9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Game\GameAlgorithm">
+      <UniqueIdentifier>{e9636a4a-be68-4614-a03c-24a7479f63cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Game\Field">
+      <UniqueIdentifier>{f2f33ec1-a89b-411a-9858-d7f49e6d1dc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Game\Field">
+      <UniqueIdentifier>{7e38704a-d2d8-4a89-8d02-3d95ec2b4ef4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Game\Square">
+      <UniqueIdentifier>{99d5f0cb-a6c2-48b3-9a0c-0351d72dc77f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Game\Square">
+      <UniqueIdentifier>{1f7c5cbf-df86-4c5e-9f99-a23176adc8ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Game\Window">
+      <UniqueIdentifier>{159075ad-3829-46fe-b71a-d2b85801179c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Game\Window">
+      <UniqueIdentifier>{e33742a0-12d9-4f94-b332-5503398ecf46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Game\Display">
+      <UniqueIdentifier>{01e65142-f3ed-4ed9-8a68-f02c1b6b3adb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Game\Display">
+      <UniqueIdentifier>{88a6658c-8009-4264-967d-125df2592b85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Game\Context">
+      <UniqueIdentifier>{12d73b64-e46b-4ded-820e-ad805f6b8cb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Game\Context">
+      <UniqueIdentifier>{02d52d2b-0154-4721-a876-70312a797abc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Controllable">
+      <UniqueIdentifier>{fde87408-3a2c-4cbd-9bd7-450c25629e6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Controllable">
+      <UniqueIdentifier>{3fecf7d5-0f7d-45f2-8a59-1061de1b1d78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Game\Positioncalculator">
+      <UniqueIdentifier>{a7440656-1d46-452d-8971-654a725d08d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Game\Positioncalculator">
+      <UniqueIdentifier>{7a6f1eb0-5036-4561-953a-19804fe356d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Game\Positionable">
+      <UniqueIdentifier>{0955edee-bf52-4a97-8757-98fe0f3a9381}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Game\Positionable">
+      <UniqueIdentifier>{342cf79b-f87f-4533-9332-abc1a0062b4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\AI">
+      <UniqueIdentifier>{1261153f-5903-45f7-aef6-da63a9faade4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\AI">
+      <UniqueIdentifier>{26df3466-31a2-4fdd-825d-8d3448b152f5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="APP.h">
+      <Filter>Pliki nagłówkowe\App</Filter>
+    </ClInclude>
+    <ClInclude Include="Command.h">
+      <Filter>Pliki nagłówkowe\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="ExitCommand.h">
+      <Filter>Pliki nagłówkowe\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Pliki nagłówkowe\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="BackCommand.h">
+      <Filter>Pliki nagłówkowe\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Controler.h">
+      <Filter>Pliki nagłówkowe\Controler</Filter>
+    </ClInclude>
+    <ClInclude Include="MoseKeyControler.h">
+      <Filter>Pliki nagłówkowe\Controler</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuItem.h">
+      <Filter>Pliki nagłówkowe\Menuitem</Filter>
+    </ClInclude>
+    <ClInclude Include="NormaliItem.h">
+      <Filter>Pliki nagłówkowe\Menuitem</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorItem.h">
+      <Filter>Pliki nagłówkowe\Menuitem</Filter>
+    </ClInclude>
+    <ClInclude Include="NoCommand.h">
+      <Filter>Pliki nagłówkowe\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="GameBuilder.h">
+      <Filter>Pliki nagłówkowe\Gamebuilder</Filter>
+    </ClInclude>
+    <ClInclude Include="ValueItem.h">
+      <Filter>Pliki nagłówkowe\Menuitem</Filter>
+    </ClInclude>
+    <ClInclude Include="TypeCommand.h">
+      <Filter>Pliki nagłówkowe\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="ChangeMenuCommand.h">
+      <Filter>Pliki nagłówkowe\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalWall.h">
+      <Filter>Pliki nagłówkowe\Menuwall</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuWall.h">
+      <Filter>Pliki nagłówkowe\Menuwall</Filter>
+    </ClInclude>
+    <ClInclude Include="ValueWall.h">
+      <Filter>Pliki nagłówkowe\Menuwall</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomSetCommand.h">
+      <Filter>Pliki nagłówkowe\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="GameContext.h">
+      <Filter>Pliki nagłówkowe\Game\Context</Filter>
+    </ClInclude>
+    <ClInclude Include="Gamealgorithm.h">
+      <Filter>Pliki nagłówkowe\Game\GameAlgorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Pliki nagłówkowe\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Square.h">
+      <Filter>Pliki nagłówkowe\Game\Square</Filter>
+    </ClInclude>
+    <ClInclude Include="Display.h">
+      <Filter>Pliki nagłówkowe\Game\Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Displayed.h">
+      <Filter>Pliki nagłówkowe\Game\Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Field.h">
+      <Filter>Pliki nagłówkowe\Game\Field</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalContext.h">
+      <Filter>Pliki nagłówkowe\Game\Context</Filter>
+    </ClInclude>
+    <ClInclude Include="NewGameCommand.h">
+      <Filter>Pliki nagłówkowe\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewWindow.h">
+      <Filter>Pliki nagłówkowe\Game\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowDecorator.h">
+      <Filter>Pliki nagłówkowe\Game\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="ValueWindow.h">
+      <Filter>Pliki nagłówkowe\Game\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Pliki nagłówkowe\Game\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalTimer.h">
+      <Filter>Pliki nagłówkowe\Game\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="Controllable.h">
+      <Filter>Pliki nagłówkowe\Controllable</Filter>
+    </ClInclude>
+    <ClInclude Include="ResumeCommand.h">
+      <Filter>Pliki nagłówkowe\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="PositionCalculator.h">
+      <Filter>Pliki nagłówkowe\Game\Positioncalculator</Filter>
+    </ClInclude>
+    <ClInclude Include="Positionable.h">
+      <Filter>Pliki nagłówkowe\Game\Positionable</Filter>
+    </ClInclude>
+    <ClInclude Include="PictureDecorator.h">
+      <Filter>Pliki nagłówkowe\Game\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="MinesGenerator.h">
+      <Filter>Pliki nagłówkowe\Minesgenerator</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalGenerator.h">
+      <Filter>Pliki nagłówkowe\Minesgenerator</Filter>
+    </ClInclude>
+    <ClInclude Include="AIControler.h">
+      <Filter>Pliki nagłówkowe\Controler</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractAI.h">
+      <Filter>Pliki nagłówkowe\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="AIdata.h">
+      <Filter>Pliki nagłówkowe\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="AI1.h">
+      <Filter>Pliki nagłówkowe\AI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Saper_V01.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="APP.cpp">
+      <Filter>Pliki źródłowe\App</Filter>
+    </ClCompile>
+    <ClCompile Include="Command.cpp">
+      <Filter>Pliki źródłowe\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="ExitCommand.cpp">
+      <Filter>Pliki źródłowe\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Pliki źródłowe\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="BackCommand.cpp">
+      <Filter>Pliki źródłowe\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="Controler.cpp">
+      <Filter>Pliki źródłowe\Controler</Filter>
+    </ClCompile>
+    <ClCompile Include="MoseKeyControler.cpp">
+      <Filter>Pliki źródłowe\Controler</Filter>
+    </ClCompile>
+    <ClCompile Include="Normalitem.cpp">
+      <Filter>Pliki źródłowe\Menuitem</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuItem.cpp">
+      <Filter>Pliki źródłowe\Menuitem</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorItem.cpp">
+      <Filter>Pliki źródłowe\Menuitem</Filter>
+    </ClCompile>
+    <ClCompile Include="GameBuilder.cpp">
+      <Filter>Pliki źródłowe\Gamebuilder</Filter>
+    </ClCompile>
+    <ClCompile Include="ValueItem.cpp">
+      <Filter>Pliki źródłowe\Menuitem</Filter>
+    </ClCompile>
+    <ClCompile Include="TypeCommand.cpp">
+      <Filter>Pliki źródłowe\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangeMenuCommand.cpp">
+      <Filter>Pliki źródłowe\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalWall.cpp">
+      <Filter>Pliki źródłowe\Menuwall</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuWall.cpp">
+      <Filter>Pliki źródłowe\Menuwall</Filter>
+    </ClCompile>
+    <ClCompile Include="ValueWall.cpp">
+      <Filter>Pliki źródłowe\Menuwall</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomSetCommand.cpp">
+      <Filter>Pliki źródłowe\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="GameContext.cpp">
+      <Filter>Pliki źródłowe\Game\Context</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Pliki źródłowe\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Square.cpp">
+      <Filter>Pliki źródłowe\Game\Square</Filter>
+    </ClCompile>
+    <ClCompile Include="Display.cpp">
+      <Filter>Pliki źródłowe\Game\Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Displayed.cpp">
+      <Filter>Pliki źródłowe\Game\Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Field.cpp">
+      <Filter>Pliki źródłowe\Game\Field</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalContext.cpp">
+      <Filter>Pliki źródłowe\Game\Context</Filter>
+    </ClCompile>
+    <ClCompile Include="NewGameCommand.cpp">
+      <Filter>Pliki źródłowe\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewWindow.cpp">
+      <Filter>Pliki źródłowe\Game\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowDecorator.cpp">
+      <Filter>Pliki źródłowe\Game\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="ValueWindow.cpp">
+      <Filter>Pliki źródłowe\Game\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Pliki źródłowe\Game\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalTimer.cpp">
+      <Filter>Pliki źródłowe\Game\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="Controllable.cpp">
+      <Filter>Pliki źródłowe\Controllable</Filter>
+    </ClCompile>
+    <ClCompile Include="ResumeCommand.cpp">
+      <Filter>Pliki źródłowe\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="Gamealgorithm.cpp">
+      <Filter>Pliki źródłowe\Game\GameAlgorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="PositionCalculator.cpp">
+      <Filter>Pliki źródłowe\Game\Positioncalculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Positionable.cpp">
+      <Filter>Pliki źródłowe\Game\Positionable</Filter>
+    </ClCompile>
+    <ClCompile Include="PictureDecorator.cpp">
+      <Filter>Pliki źródłowe\Game\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="MinesGenerator.cpp">
+      <Filter>Pliki źródłowe\Minesgenerator</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalGenerator.cpp">
+      <Filter>Pliki źródłowe\Minesgenerator</Filter>
+    </ClCompile>
+    <ClCompile Include="AIControler.cpp">
+      <Filter>Pliki źródłowe\Controler</Filter>
+    </ClCompile>
+    <ClCompile Include="AbstractAI.cpp">
+      <Filter>Pliki źródłowe\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="AI1.cpp">
+      <Filter>Pliki źródłowe\AI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>
