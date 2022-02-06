@@ -16,3 +16,7 @@ To install the game you can either clone the repository into Visual Studio or do
 More detailed informations in the [Installation guide](https://github.com/martinrybka2000/Saper_V01/wiki/Installation-guide)
 
 ## Overview
+<img src="https://user-images.githubusercontent.com/39592198/152680642-60220300-9172-4f75-930e-7c3126525f2a.png" width="650" height="450"/>
+<img src="https://user-images.githubusercontent.com/39592198/152680658-0ba433dd-a908-4eb3-b1ba-7eba26fe63c2.png" width="650" height="450"/>
+<img src="https://user-images.githubusercontent.com/39592198/152680674-780dc985-ed8f-4f87-803b-a68f1967368a.png" width="650" height="450"/>
+<img src="https://user-images.githubusercontent.com/39592198/152680693-6c155253-d1c4-4b9c-8874-e3076ceeccb7.png" width="650" height="450"/>
